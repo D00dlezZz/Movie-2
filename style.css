@@ -450,16 +450,17 @@ body{
     font-size: 30px;
     line-height: 101.38%;
     margin-bottom: 15px;
+    margin-left: 205px;
 }
 
 .subname2 {
     position: relative;
-    margin: 0;
     font-family: 'Roboto',sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 130%;
+    margin-left: 205px;
 }
 
 .face2{
@@ -470,14 +471,14 @@ body{
   
 }
 
-.aurthor2{
+.authors-block2{
     margin-left: 772px;
 }
 
 .info {
     right: 116px;
     position: absolute;
-    bottom: 52px;
+    bottom: 72px;
    
 
 }
