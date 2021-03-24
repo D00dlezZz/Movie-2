@@ -239,6 +239,10 @@ body{
 /* /format-section   */
 
 /* what-to-know-section */
+
+.what-to-know-section{
+    margin-bottom: 162px;
+}
 .head-wtks{
     display: flex;
 }
@@ -271,4 +275,108 @@ body{
 /* /what-to-know-section */
 
 /* program-section */
+.container-program{
+    width: 100%;
+}
+.section-head{
+    white-space: nowrap;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ .line {
+    font-weight: 900;
+    height: 14px;  
+    background-color: black;
+    margin: 0;
+    width: 630px;
+ }
+
+
+.text {
+    display: flex;
+    font-family: Roboto Slab,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+    margin-left: 121px;
+    margin-right: 178px;
+    
+    
+}
+.block {
+    margin-top: 95px;
+    flex-wrap: wrap;
+    margin-left: 49px;
+
+}
+
+.block-item {
+    margin-right: 22px;
+    margin-top: 24px;
+    margin-left: 22px;
+    width: 399px;
+    height: 328px;
+    box-shadow: 1px 1px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+}
+
+.block-h {
+    margin-top: 11px;
+    margin-left: 20px;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 130%;
+}
+
+.block-text {
+    margin-top: 32px;
+    margin-left: 20px;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 130%;
+}
+.block-h8{
+    line-height: 97%;
+    margin-top: 11px;
+    margin-left: 20px;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.block-text8 {
+    margin-top: 10px;
+    margin-left: 20px;
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 130%;
+}
+
+.block1{
+    display: flex;
+    margin-bottom: 41px;
+}
+
+.block2 {
+    display: flex; 
+    margin-bottom: 45px;  
+}
+
+.block3 {
+    display: flex;
+}
+
+.geek{
+    margin-top: 285px;
+    margin-left: 152px;
+}
 /* /program-section */
