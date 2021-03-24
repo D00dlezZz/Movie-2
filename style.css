@@ -626,3 +626,138 @@ body{
 }
 
 /* /reviews-section */
+
+/* begin-section */
+.begin {
+    display: flex;
+    flex-direction: column;
+    height: 740px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    width: 100%;
+    background: #9DC9C8;
+}
+.september {
+    font-family: Roboto Slab;
+    width: 908px;
+    height: 66px;
+    margin: 180px 0px 0px 122px;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+.cost {
+    width: 170px;
+    margin: 54px 0px 0px 121px;
+    font-size: 25px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+.price {
+    font-size: 80px;
+    line-height: 101.38%;
+    color: #000000;
+    margin: 2px 0px 0px 121px;
+}
+
+.information {
+    display: flex;
+    margin: 68px 0px 0px 129px;
+}
+.levels {
+    display: flex;
+    flex-direction: column;
+    width: 294px;
+    margin: 10px 0px 0px -7px;
+}
+.come {
+    display: flex;
+    flex-direction: column;
+    width: 294px;
+    margin: 10px 0px 0px 70px;
+}
+
+.level {
+    font-size: 25px;
+    line-height: 101.38%;
+    color: #000000;
+    margin: 0px 0px 0px;
+}
+
+.from0 {
+    font-family: Roboto;
+    height: 70px;
+    width: 294px;
+    font-size: 18px;
+    line-height: 110.38%;
+    color: #000000;
+}
+
+
+/* /begin-section  */
+
+/* footer-section */
+footer{
+    box-sizing: border-box;
+    background-color: black;
+    max-width: 1440px;
+    width: 100%;
+    height: 390px;
+    color: white;
+}
+.podval{
+    display: flex;
+    justify-content: space-between;
+}
+.foot{
+    margin-top: 20px;
+    margin-left: 122px;
+}
+.contact{
+    margin-right: 170px;
+    margin-top: 27px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;    
+    font-weight: 400;
+}
+.phon{
+    margin-bottom: 0;
+}
+.email{
+    margin-top: 10px;
+}
+.social{
+    margin-left: 121px;
+}
+.datafooter{
+    margin-left: 122px;
+    margin-top: 140px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+} 
+.instagram{
+ margin-right: 15px;
+ height: 33px;
+ width: 33px;
+}
+.facebook2{
+    margin-right: 16px;
+    height: 33px;
+    width: 33px;
+}
+.vk{
+    margin-right: 22px;
+    height: 33px;
+    width: 33px;
+}
+.whats{
+    margin-right: 22px;
+    height: 33px;
+    width: 33px;
+}
+/* /footer-section */
