@@ -12,7 +12,9 @@ body{
 }
 
 /* Header-section */
-
+.header-section{
+    margin-bottom: 162px;
+}
 .logo{
     margin-top: 21px;
     width: 112px;
@@ -112,6 +114,9 @@ body{
 /* /Header-section */
 
 /* about-course-section */
+.about-course-section{
+    margin-bottom: 162px;
+}
 .container-sct2{
     width: 100%;
     display: block;
@@ -192,3 +197,39 @@ body{
 
 
 /* /about-course-section */
+
+
+/* format-section   */
+.format {
+    font-family: 'Roboto Slab', sans-serif ;
+    font-size: 55px;
+    font-weight: 700;
+    margin-left: 121px;
+    
+}
+
+.block-format {
+    max-width: 1440px;
+    display: flex;
+    font-family: Roboto, sans-serif;
+    color: #000000;
+}
+
+.access {
+    display: inline-block;
+}
+.webinars {
+    font-weight: bold;
+    font-size: 25px;
+    color: #1E4681;
+    position: relative;
+    margin-left: 124px;
+    margin-top: 52px;
+    margin-bottom: 5px;
+}
+.communication {
+    font-size: 18px;
+    margin-left: 122px;
+    line-height: 130%;
+}
+/* /format-section   */
