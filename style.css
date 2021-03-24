@@ -71,6 +71,7 @@
     color: white;
     height: 200px;
     width: 486px;
+    text-align: start;
     left: 630px;
     top: 670px;
     border: 5px;
@@ -79,16 +80,57 @@
     font-family: 'Roboto Slab', serif;
     font-weight: 400;
     font-size: 25px;
+    line-height: 32,5;
     text-align: left;
     box-sizing: border-box;
     padding-left: 30px;
     padding-top: 17px;
-    margin-left: 403px;
-    margin-top: 72px;
+    margin-left: 358px;
+    margin-top: 49px;
 }
 .endi{
+    padding-right: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
     text-align: right;
     font-size: 20px;
     margin: 0;
 }
+.nach{
+    margin: 0;
+}
+
 /* /Header-section */
+
+/* about-course-section */
+.container-sct2{
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+.aboux {
+    font-family: 'Roboto Slab',sans-serif ;
+    font-size: 55px;
+    font-weight: 700;
+    margin-top: 91px;
+    margin-left: 122px;
+
+}
+.text-camera {
+    display: flex;
+}
+
+.text-a {
+    margin-right: 190px;
+    /* width: 662px;
+    height: 374px; */
+    line-height: 150%;
+    display: block;
+    margin-left: 124px;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+
+/* /about-course-section */
