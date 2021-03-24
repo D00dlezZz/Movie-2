@@ -14,4 +14,81 @@
     margin-top: 21px;
     width: 112px;
     height: 66px;
+    margin-left: 121px;
 }
+.obsh{
+    display: flex;
+    margin-left: 121px;
+}
+.tmenu{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 73px; 
+    margin-bottom: 10px;
+    display: flex;
+    font-size: 20px;
+    font-weight: 400px;
+}
+
+.onet{
+    font-size: 20px;
+    margin-left: 8px;
+    margin-right: 40px;
+}
+
+.twot{
+    margin-left: 9px;
+    margin-right: 47px;
+}
+
+.threet{
+    margin-left: 12px;
+}
+
+.film {
+    font-size: 80px;
+    font-weight: 700;
+    margin: 0;
+    margin-top: -7px;
+    line-height: 81.11px;
+}
+
+.niz{
+    margin-top: 32px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.chel{
+    margin-top: 130px;
+    margin-left: 150px;
+    width: 304px;
+    height: 356px;
+}
+.visitka{
+    background-color: #1E4681;
+    color: white;
+    height: 200px;
+    width: 486px;
+    left: 630px;
+    top: 670px;
+    border: 5px;
+    border-radius: 5px;
+    transform:  rotate(-4deg);
+    font-family: 'Roboto Slab', serif;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: left;
+    box-sizing: border-box;
+    padding-left: 30px;
+    padding-top: 17px;
+    margin-left: 403px;
+    margin-top: 72px;
+}
+.endi{
+    text-align: right;
+    font-size: 20px;
+    margin: 0;
+}
+/* /Header-section */
