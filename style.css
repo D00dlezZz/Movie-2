@@ -554,3 +554,75 @@ body{
 }
 
 /* /authors-section */
+
+/* reviews-section */
+.reviews-section{
+    margin-top: 300px;
+}
+.study {
+    width: 100%;
+    height: 740px;
+    background: #EFEFEF;
+    
+}
+.course {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 55px;
+    line-height: 101.38%;
+    color: #000000;
+    margin-left: 121px;
+    padding: 70px 0px 0px;
+    box-sizing: border-box;
+}
+.feedback {
+    width: 791px;
+    height: 451px;
+    background-color: white;
+    margin-left: 126px;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+
+.comment {
+    width: 700px;
+    height: 203px;
+    margin: 40px 46px 0px 45px;
+    font-family: Roboto;
+    font-size: 20px;
+    line-height: 150%;
+    color: #000000;
+}
+.response {
+    display: flex;
+    flex-direction: row;
+}
+
+.photo2 {
+    width: 190px;
+    height: 169px;
+    margin: 15px 0px 0px 26px; 
+}
+.social-name {
+    margin-left: -20px;
+}
+.firstname {
+    width: 353px;
+    height: 59px;
+    margin: 40px 0px 0px 56px;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 101.38%;
+    color: #000000;
+}
+
+.facebook {
+    width: 32px;
+    height: 31px;
+    margin-left: 56px;
+}
+
+/* /reviews-section */
