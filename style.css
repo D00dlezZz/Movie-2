@@ -7,6 +7,9 @@
     max-width: 1440px;
     width: 100%;
 }
+body{
+    margin: 0;
+}
 
 /* Header-section */
 
@@ -60,7 +63,12 @@
 
 }
 
+.amenu{
+    margin-right: 103px;
+}
+
 .chel{
+    margin-right: 246px;
     margin-top: 130px;
     margin-left: 150px;
     width: 304px;
@@ -85,7 +93,7 @@
     box-sizing: border-box;
     padding-left: 30px;
     padding-top: 17px;
-    margin-left: 358px;
+    margin-left: 403px;
     margin-top: 49px;
 }
 .endi{
@@ -105,16 +113,16 @@
 
 /* about-course-section */
 .container-sct2{
+    width: 100%;
     display: block;
     font-family: 'Roboto', sans-serif;
-    width: 100%;
 }
 .aboux {
     font-family: 'Roboto Slab',sans-serif ;
     font-size: 55px;
     font-weight: 700;
     margin-top: 91px;
-    margin-left: 122px;
+    margin-left: 121px;
 
 }
 .text-camera {
@@ -122,14 +130,64 @@
 }
 
 .text-a {
-    margin-right: 190px;
-    /* width: 662px;
-    height: 374px; */
+    font-family: 'Roboto Slab',sans-serif ;
     line-height: 150%;
     display: block;
-    margin-left: 124px;
+    margin-left: 121px;
+    margin-right: 32px;
     font-size: 24px;
     font-weight: 400;
+
+}
+.camera1{
+    margin-top: 60px;
+    margin-left: 195px;
+}
+.block-sub{
+    display: flex;
+    left: 472px;
+    top: 719px;
+}
+.camera2{
+    margin-right: 132px;
+    margin-left: 121px;
+    margin-top: 70px;
+}
+
+.item1 {
+    margin-top: 110px;
+    margin-right: 104px;
+    display: inline-block;
+    width: 150px;
+    height: 90px;  
+}
+.item2 {
+    margin-top: 110px;
+    margin-right: 104px;
+    display: inline-block;
+    width: 150px;
+    height: 90px;
+   
+}
+.item3 {
+    margin-right: 104px;
+    margin-top: 110px;
+    display: inline-block;
+    width: 150px;
+    height: 90px;
+ 
+}
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+
+}
+
+.subtitle{
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
 }
 
 
