@@ -200,6 +200,10 @@ body{
 
 
 /* format-section   */
+
+.format-section{
+    margin-bottom: 162px;
+}
 .format {
     font-family: 'Roboto Slab', sans-serif ;
     font-size: 55px;
@@ -233,3 +237,38 @@ body{
     line-height: 130%;
 }
 /* /format-section   */
+
+/* what-to-know-section */
+.head-wtks{
+    display: flex;
+}
+.what-learn {
+    font-family: 'Roboto Slab', sans-serif ;
+    font-size: 55px;
+    font-weight: 700;
+    margin-left: 121px;
+    margin-right: 407px;
+}
+.fencers{
+    margin-top: -28px;
+}
+.block-format2{
+    display: flex;
+    font-family: Roboto, sans-serif;
+    color: #000000;
+}
+.learn-list {
+    font-size: 24px;;
+    width: 662px;
+    height: 374px;
+    margin-left: 112px;
+    line-height: 150%;
+}
+.dragon{
+    margin-top: 137px;
+    margin-left: 50px;
+}
+/* /what-to-know-section */
+
+/* program-section */
+/* /program-section */
